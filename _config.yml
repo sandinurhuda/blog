@@ -69,6 +69,7 @@ minima:
   #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
-  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/sandinurhuda" }
-  - { platform: instagram,      user_url: "https://www.instagram.com/sanpetod" }
+  social_links:
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/sandinurhuda" }
+    - { platform: instagram,      user_url: "https://www.instagram.com/sanpetod" }
 
