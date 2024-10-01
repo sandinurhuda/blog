@@ -28,7 +28,7 @@ Berdasarkan saat artikel ini dibuat, ada 4 (empat) tipe analisis data:
 - <b>Descriptive Analytics</b> (Apa yang terjadi di masa lalu?)
 - <b>Diagnostic Analytics</b> (Mengapa itu terjadi di masa lalu?)
 - <b>Predictive Analytics</b> (Apa yang akan terjadi di masa depan?)
-- <b>Prescriptive Analytics</b> (Bagaimana kita bisa mewujudkannya?)
+- <b>Prescriptive Analytics</b> (Apa yang harus dilakukan selanjutnya?)
 
 ### 1. Descriptive Analytics
 
