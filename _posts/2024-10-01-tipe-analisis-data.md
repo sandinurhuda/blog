@@ -78,4 +78,4 @@ Misalnya, berdasarkan prediksi penjualan produk X, apa yang harus dilakukan?
 
 Dalam beberapa hal, analisis data mirip dengan perburuan harta karun. Berdasarkan petunjuk dan wawasan yang didapat dari masa lalu, kita dapat menentukan langkah selanjutnya.
 
-Dengan jenis analisis yang tepat, semua jenis bisnis dan orgnisasi dapat menggunakan data mereka untuk membuat keputusan yang lebih cerdas, berinvestasi dengan lebih bijak, meningkatkan proses internal, dan pada akhirnya berujung pada kesuksesan dan keberhasilan.
+Dengan jenis analisis yang tepat, semua jenis bisnis dan organisasi dapat menggunakan data mereka untuk membuat keputusan yang lebih cerdas, berinvestasi dengan lebih bijak, meningkatkan proses internal, dan pada akhirnya berujung pada kesuksesan dan keberhasilan.
